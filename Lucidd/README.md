@@ -1,2 +1,0 @@
-"# lucidd.github.io" 
-"# lucidd" 
